@@ -36,7 +36,7 @@ Sistema web para la gestión y visualización del ranking de alumnos por salón,
 
 | Selección de salón | Vista docente |
 |---|---|
-| ![Salones](screenshots/salones.png) | ![Docente](screenshots/docente.png) |
+| ![Salones](screenshots/salones.png) | ![Docente](screenshots/vistadocente.png) |
 
 | Agregar Alumno  | Editar alumno |
 |---|---|
