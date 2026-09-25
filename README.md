@@ -50,12 +50,6 @@ Sistema web para la gestión y visualización del ranking de alumnos por salón,
 
 ## 📌 Sobre este repositorio
 
-Este repositorio se mantiene únicamente con fines de presentación (portafolio / proceso de selección). El código fuente completo no está publicado, pero puedo compartir detalles técnicos adicionales o una demo guiada bajo solicitud.
+Este repositorio se mantiene únicamente con fines de presentación. El código fuente completo no está publicado, pero puedo compartir detalles técnicos adicionales o una demo guiada bajo solicitud.
 
 ---
-
-## 📬 Contacto
-
-- GitHub: [tu usuario]
-- LinkedIn: [tu perfil]
-- Email: [tu correo]
