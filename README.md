@@ -44,7 +44,7 @@ Sistema web para la gestión y visualización del ranking de alumnos por salón,
 
 - HTML5 / CSS3 / JavaScript
 - Firebase Hosting
-- Firebase (Auth / Firestore o Realtime Database)
+- Firebase (Auth / Firestore)
 
 ---
 
