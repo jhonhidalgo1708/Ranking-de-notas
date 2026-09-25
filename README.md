@@ -34,7 +34,7 @@ Sistema web para la gestión y visualización del ranking de alumnos por salón,
 |---|---|
 | ![Ranking](screenshots/ranking.png)  | ![Login](screenshots/login.png) |
 
-| Selección de salón | Vista docente |
+| Selección de salón y boton ordenar alumnos | Vista docente |
 |---|---|
 | ![Salones](screenshots/salones.png) | ![Docente](screenshots/vistadocente.png) |
 
