@@ -14,15 +14,15 @@ Sistema web para la gestión y visualización del ranking de alumnos por salón,
 
 ## ✨ Funcionalidades
 
--🌐 Vista pública del ranking, sin necesidad de iniciar sesión
--🔐 Inicio de sesión solo para el administrador (docente), para proteger la edición de datos
--🏫 Selección entre múltiples salones (Salón 1 a Salón 4)
--📋 Ranking de alumnos ordenado por puntos
--🔤 Opción de ordenar por apellido
--🔄 Actualización dinámica de la lista de alumnos
--👤 Panel con información del docente activo
--🎯 Indicador de cantidad máxima de alumnos por salón
--🥇 Alumno destacado: ícono dorado para quien tiene el mayor puntaje entre los 4 salones
+- 🌐 Vista pública del ranking, sin necesidad de iniciar sesión
+- 🔐 Inicio de sesión solo para el administrador (docente), para proteger la edición de datos
+- 🏫 Selección entre múltiples salones (Salón 1 a Salón 4)
+- 📋 Ranking de alumnos ordenado por puntos
+- 🔤 Opción de ordenar por apellido
+- 🔄 Actualización dinámica de la lista de alumnos
+- 👤 Panel con información del docente activo
+- 🎯 Indicador de cantidad máxima de alumnos por salón
+- 🥇 Alumno destacado: ícono dorado para quien tiene el mayor puntaje entre los 4 salones
 
 ---
 
