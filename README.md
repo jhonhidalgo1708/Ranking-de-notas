@@ -30,13 +30,17 @@ Sistema web para la gestión y visualización del ranking de alumnos por salón,
 
 <!-- Reemplaza estas rutas por tus imágenes reales dentro de la carpeta /screenshots -->
 
-| Login | Panel de ranking |
+| Panel de ranking | Login |
 |---|---|
-| ![Login](screenshots/login.png) | ![Ranking](screenshots/ranking.png) |
+| ![Ranking](screenshots/ranking.png)  | ![Login](screenshots/login.png) |
 
 | Selección de salón | Vista docente |
 |---|---|
 | ![Salones](screenshots/salones.png) | ![Docente](screenshots/docente.png) |
+
+| Agregar Alumno  | Editar alumno |
+|---|---|
+| ![Agregaralumno](screenshots/agregaralumno.png) | ![Editaralumno](screenshots/editaralumno.png) |
 
 ---
 
